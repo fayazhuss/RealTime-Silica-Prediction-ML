@@ -54,4 +54,5 @@ Technical Challenge Handled:
 "The raw data used commas as decimal separators. I performed custom pre-processing to convert strings to floats before modeling, ensuring data integrity for the 700k+ records."
 
 Author: Fayaz Hussain
+
 Dataset Source: Kaggle - Quality Prediction in a Mining Process https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
